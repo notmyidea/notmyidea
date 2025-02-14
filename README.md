@@ -1,4 +1,4 @@
-<h1 align="left">Privet 👋</h1>
+<h1 align="left"></h1>
 
 ###
 
